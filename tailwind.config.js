@@ -140,3 +140,10 @@ export default {
     }),
   ],
 };
+
+
+
+
+
+
+// tailwind configed
