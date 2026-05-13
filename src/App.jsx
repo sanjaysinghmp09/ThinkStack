@@ -8,6 +8,7 @@ const App = () => {
   return (
     <>
       <h1 class="text-3xl font-bold underline">sanjay this side</h1>
+      <p>This is a simple paragraph.</p>
 
       <ButtonGradient/>
     </>
