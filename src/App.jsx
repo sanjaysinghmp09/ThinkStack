@@ -532,7 +532,7 @@ export default function FarmerHome() {
                     style={{ resize: "vertical" }}
                   />
                   <button type="submit" className="btn-primary" style={{ width: "100%", justifyContent: "center" }}>
-                    📨 संदेश भेजें · Soyabean lene hetu sampark kre 
+                    📨 send sms · Soyabean lene hetu sampark kre 
                   </button>
                 </form>
               )}
